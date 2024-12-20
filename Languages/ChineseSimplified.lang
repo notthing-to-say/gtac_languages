@@ -171,6 +171,7 @@ tab_Licenses=许可证
 tab_Language=语言
 tab_BugFixes=Bug 修复
 tab_Debug=调试
+tab_Networking=网络
 
 # Labels
 label_Name=名字:
@@ -192,6 +193,7 @@ tip_ResourceOpen=在{0}中打开当前选定的资源文件夹。
 button_ResourceOpen=打开
 
 # Options
+opt_Console=控制台窗口
 opt_KeepSavedGamesSeparate=存档独立保存
 opt_KeepScreenshotsSeparate=截图独立保存
 opt_SaveCrashDump=保存崩溃转储
